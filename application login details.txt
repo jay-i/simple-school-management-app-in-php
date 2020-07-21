@@ -1,0 +1,7 @@
+simple School management app in php 
+======================================
+
+admin detail:
+
+username:- admin
+password:- admin
